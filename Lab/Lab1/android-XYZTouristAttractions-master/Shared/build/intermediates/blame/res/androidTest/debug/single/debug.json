@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\drawable-xxhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_inline_style.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_default_balloon.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_extended_data.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_text_bubble.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_unknwown_folder.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_nested_folders.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_unsupported.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ground_overlay_color.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_basic_placemark.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_multiple_placemarks.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_nested_multigeometry.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_document_nest.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ground_overlay.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_info_window.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_basic_folder.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\drawable-xhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\da5b97fd68966dc6d58fa1754b070768\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_amu_webview.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a5fefc4df60da5cf2908adc879e4d9e2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\5214c03cf22d6e103b872024c48f0735\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw_amu_cdata.kml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\fd94ef439eb417528c409e135ee220e9\\res\\raw\\amu_cdata.kml"
+    }
+]

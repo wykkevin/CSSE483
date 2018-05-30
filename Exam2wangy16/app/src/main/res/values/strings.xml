@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exam 2 by wangy16</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_swap">swap</string>
+    <string name="action_choose_two">choose two</string>
+    <string name="dialog_question">How many territories?</string>
+    <string name="beginner">Beginner (5)</string>
+    <string name="intermediate">Intermediate (10)</string>
+    <string name="expert">Expert (50)</string>
+    <string name="score">Score:%d</string>
+    <plurals name="finish">
+        <item quantity="one">Congratulations for earning %d point!</item>
+        <item quantity="other">Congratulations for earning %d points!</item>
+    </plurals>
+    <string name="title_activity_finish_fullscreen">FinishFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="compare_true">Yes, %s (%d) > %s (%d)</string>
+    <string name="compare_false">No, %s (%d) > %s (%d)</string>
+
+</resources>

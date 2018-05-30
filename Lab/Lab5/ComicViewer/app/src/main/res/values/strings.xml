@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComicViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Information</string>
+    <string name="section_format">Issue %1$d</string>
+    <string name="dialog_title">Mouseover text for %d</string>
+</resources>

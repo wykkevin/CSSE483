@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw400dp-v13\\values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Application\\src\\main\\res\\values-sw400dp\\dimens.xml",
+                    "from": {
+                        "startLines": "22,21,19,18,20",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "799,756,670,623,714",
+                        "endColumns": "40,42,43,46,41",
+                        "endOffsets": "835,794,709,665,751"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,96,139,183,230",
+                        "endColumns": "40,42,43,46,41",
+                        "endOffsets": "91,134,178,225,267"
+                    }
+                }
+            ]
+        }
+    ]
+}

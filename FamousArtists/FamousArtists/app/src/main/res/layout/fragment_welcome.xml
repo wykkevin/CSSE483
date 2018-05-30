@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mona_lisa_small"
+    tools:context="edu.rosehulman.famousartists.fragments.WelcomeFragment">
+
+    <TextView
+        style="@style/WelcomeFont"
+        android:text="@string/welcome" />
+
+    <TextView
+        style="@style/WelcomeFont"
+        android:text="@string/tap_to_begin"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\40572704a59e95310536704e1a34269a\AndroidManifest.xml:2:1-9:12
+MERGED from [:Shared] C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\20d501c813ca40793bebabc25a627710\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c0441fcd14540f55adf5363fc7cf0880\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8aabfa20e212c6df6646a4457fdcf236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\14504d9643533a283653c41e9e0d2325\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\6f04627104aad527bff6f921097bc90d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9ad106d77c2511ce9dd507b63e9432b2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\112ebf2c023c3f743e3a5460e065825d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\abe9be73a875723b9fbc316c6e6a704d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\df412004da5c8140da144964c9aaaa7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d7215c71025db5c629102256b75c3a81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\503110bc42b71e85cab44e9149bbfaca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\c6492d1357e15990837add6d3ce119b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\16076323251973048a9d6b8e6ebfca31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\75b46acf8dc4e4fbfd65e2ee70b67e7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\da5b97fd68966dc6d58fa1754b070768\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a5fefc4df60da5cf2908adc879e4d9e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\1b639af8002fbc3858e8cc8c58d30097\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\350a78a8112ba312eac4454a16afa0d3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\0419cd8c3799325d20736eb372477f0b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f968b8415ffedb825612b4385dc9af0e\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\bb6fc315dbceb6b5a4e1e2af545c9668\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\69988ca2e5ea4e0f40e736044420b0d9\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+	package
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:20:5-56
+	android:versionName
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:1-80:12
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:25:5-100
+	tools:node
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:25:78-97
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:26:5-101
+	tools:node
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:26:79-98
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:28:5-78:19
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\40572704a59e95310536704e1a34269a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\40572704a59e95310536704e1a34269a\AndroidManifest.xml:7:5-20
+MERGED from [:Shared] C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-47
+MERGED from [:Shared] C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-47
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\14504d9643533a283653c41e9e0d2325\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\14504d9643533a283653c41e9e0d2325\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9ad106d77c2511ce9dd507b63e9432b2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9ad106d77c2511ce9dd507b63e9432b2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\112ebf2c023c3f743e3a5460e065825d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\112ebf2c023c3f743e3a5460e065825d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\1b639af8002fbc3858e8cc8c58d30097\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\1b639af8002fbc3858e8cc8c58d30097\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\350a78a8112ba312eac4454a16afa0d3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\350a78a8112ba312eac4454a16afa0d3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\0419cd8c3799325d20736eb372477f0b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\0419cd8c3799325d20736eb372477f0b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f968b8415ffedb825612b4385dc9af0e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f968b8415ffedb825612b4385dc9af0e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\69988ca2e5ea4e0f40e736044420b0d9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\69988ca2e5ea4e0f40e736044420b0d9\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:31:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:33:9-41
+	android:icon
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:32:9-43
+activity#com.example.android.xyztouristattractions.ui.AttractionListActivity
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:36:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.android.xyztouristattractions.ui.DetailActivity
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:46:9-50:71
+	android:parentActivityName
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:50:13-68
+	android:label
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:47:13-46
+receiver#com.example.android.xyztouristattractions.service.UtilityReceiver
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:52:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:52:19-58
+service#com.example.android.xyztouristattractions.service.UtilityService
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:54:9-59
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:54:18-56
+service#com.example.android.xyztouristattractions.service.ListenerService
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:56:9-69:19
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:56:18-57
+intent-filter#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:57:13-68:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:59:17-91
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:59:25-88
+data
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:62:17-91
+	android:host
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:62:45-61
+	android:scheme
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:62:23-44
+	android:pathPrefix
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:62:62-89
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:71:9-72:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:71:20-65
+meta-data#com.example.android.xyztouristattractions.config.GlideConfiguration
+ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:74:9-76:42
+	android:value
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:76:13-40
+	android:name
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml:75:13-95
+uses-sdk
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\40572704a59e95310536704e1a34269a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\40572704a59e95310536704e1a34269a\AndroidManifest.xml:5:5-44
+MERGED from [:Shared] C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-22:41
+MERGED from [:Shared] C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\fd94ef439eb417528c409e135ee220e9\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\20d501c813ca40793bebabc25a627710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\20d501c813ca40793bebabc25a627710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c0441fcd14540f55adf5363fc7cf0880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c0441fcd14540f55adf5363fc7cf0880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8aabfa20e212c6df6646a4457fdcf236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8aabfa20e212c6df6646a4457fdcf236\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\14504d9643533a283653c41e9e0d2325\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\14504d9643533a283653c41e9e0d2325\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\6f04627104aad527bff6f921097bc90d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\6f04627104aad527bff6f921097bc90d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9ad106d77c2511ce9dd507b63e9432b2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\9ad106d77c2511ce9dd507b63e9432b2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\14bb77589989fa7057ad4a4e78103b63\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\112ebf2c023c3f743e3a5460e065825d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\112ebf2c023c3f743e3a5460e065825d\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\abe9be73a875723b9fbc316c6e6a704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\abe9be73a875723b9fbc316c6e6a704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\df412004da5c8140da144964c9aaaa7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\df412004da5c8140da144964c9aaaa7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d7215c71025db5c629102256b75c3a81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d7215c71025db5c629102256b75c3a81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\503110bc42b71e85cab44e9149bbfaca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\503110bc42b71e85cab44e9149bbfaca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\c6492d1357e15990837add6d3ce119b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\c6492d1357e15990837add6d3ce119b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\16076323251973048a9d6b8e6ebfca31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\16076323251973048a9d6b8e6ebfca31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\75b46acf8dc4e4fbfd65e2ee70b67e7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\75b46acf8dc4e4fbfd65e2ee70b67e7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\da5b97fd68966dc6d58fa1754b070768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\da5b97fd68966dc6d58fa1754b070768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a5fefc4df60da5cf2908adc879e4d9e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\a5fefc4df60da5cf2908adc879e4d9e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\1b639af8002fbc3858e8cc8c58d30097\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\1b639af8002fbc3858e8cc8c58d30097\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\350a78a8112ba312eac4454a16afa0d3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\350a78a8112ba312eac4454a16afa0d3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\0419cd8c3799325d20736eb372477f0b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\0419cd8c3799325d20736eb372477f0b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f968b8415ffedb825612b4385dc9af0e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\f968b8415ffedb825612b4385dc9af0e\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\bb6fc315dbceb6b5a4e1e2af545c9668\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\bb6fc315dbceb6b5a4e1e2af545c9668\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\69988ca2e5ea4e0f40e736044420b0d9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\69988ca2e5ea4e0f40e736044420b0d9\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\Classes\SO3\CSSE483\Lab\Lab1\android-XYZTouristAttractions-master\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\80549ada02fec6503c388bebfb785a79\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5214c03cf22d6e103b872024c48f0735\AndroidManifest.xml:24:13-79

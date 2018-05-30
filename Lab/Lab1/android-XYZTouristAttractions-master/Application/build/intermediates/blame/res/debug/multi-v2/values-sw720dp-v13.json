@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Application\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "21,19,18,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "757,670,623,714",
+                        "endColumns": "42,43,46,42",
+                        "endOffsets": "795,709,665,752"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,98,142,189",
+                        "endColumns": "42,43,46,42",
+                        "endOffsets": "93,137,184,227"
+                    }
+                }
+            ]
+        }
+    ]
+}

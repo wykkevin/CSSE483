@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Documents\\Classes\\SO3\\CSSE483\\Lab\\Lab1\\android-XYZTouristAttractions-master\\Application\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "623",
+                        "endColumns": "44",
+                        "endOffsets": "663"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                }
+            ]
+        }
+    ]
+}

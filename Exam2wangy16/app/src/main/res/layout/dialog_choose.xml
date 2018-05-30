@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp">
+
+
+    <TextView
+        android:id="@+id/dialog_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_question"
+        android:textSize="24sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dialog_beginner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/beginner"
+        android:textSize="20sp"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/dialog_intermediate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/intermediate"
+        android:textSize="20sp"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/dialog_expert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/expert"
+        android:textSize="20sp"
+        android:layout_margin="10dp"/>
+</LinearLayout>

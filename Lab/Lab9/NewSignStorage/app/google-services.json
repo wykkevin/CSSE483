@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692728444441",
+    "firebase_url": "https://wangy16-signstorage.firebaseio.com",
+    "project_id": "wangy16-signstorage",
+    "storage_bucket": "wangy16-signstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692728444441:android:84b44f39452a5564",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.wangy16.newsignstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692728444441-d8t59qc73ch9peco3o2vsqo36p7q6a3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rosehulman.wangy16.newsignstorage",
+            "certificate_hash": "e2d0efc07cc5fe0149c02329a233d60e8bc56f27"
+          }
+        },
+        {
+          "client_id": "692728444441-ao207cn4pglgdfaknfjq16bq04hn783q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwUf3fPcwN3WEbbuLEIg4XPYb4Xyh8t6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692728444441-ao207cn4pglgdfaknfjq16bq04hn783q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

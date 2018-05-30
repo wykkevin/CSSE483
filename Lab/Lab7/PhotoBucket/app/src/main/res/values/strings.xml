@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PhotoBucket</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="url_of_photo">URL of photo</string>
+    <string name="caption">caption</string>
+    <string name="delete">DELETE</string>
+    <string name="add_dialog_title">Add a Pokemonpic</string>
+    <string name="edit_a_weatherpic">Edit a Pokemonpic</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="action_sign_in_with_google">Sign in with Google</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+    <string name="login_error">Login Error!</string>
+    <string name="no_passwords">You have no passwords</string>
+    <string name="action_logout">logout</string>
+    <string name="action_show_mine">show mine</string>
+    <string name="action_show_all">show all</string>
+    <string name="no_permission">You do not have the permission</string>
+</resources>

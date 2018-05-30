@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933341932139",
+    "firebase_url": "https://wangy16-photobucket.firebaseio.com",
+    "project_id": "wangy16-photobucket",
+    "storage_bucket": "wangy16-photobucket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933341932139:android:53e1ba3f02e77c03",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.wangy16.photobucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933341932139-ejhhta4ipq8icekm008ms5k8o7drvfrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rosehulman.wangy16.photobucket",
+            "certificate_hash": "e2d0efc07cc5fe0149c02329a233d60e8bc56f27"
+          }
+        },
+        {
+          "client_id": "933341932139-1l6combdqa36tja0pgpae3n7gpvk94up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrpDMwvKy9NsnQfJuPpDI3HjgVslyYc3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933341932139-1l6combdqa36tja0pgpae3n7gpvk94up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

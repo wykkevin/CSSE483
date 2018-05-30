@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NameBaseAdapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="position">I\'m #</string>
+</resources>
